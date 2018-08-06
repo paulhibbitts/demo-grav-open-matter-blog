@@ -1,7 +1,5 @@
 ---
 title: Blog
-sitemap:
-    changefreq: monthly
 body_classes: 'header-image fullwidth'
 content:
     items: '@self.children'
@@ -17,6 +15,8 @@ display_post_summary: false
 hide_post_date: false
 hide_post_taxonomy: false
 hide_git_sync_repo_link: false
+sitemap:
+    changefreq: monthly
 blog_url: blog
 feed:
     description: 'Sample Blog Description'
@@ -24,5 +24,5 @@ feed:
 pagination: true
 ---
 
-# My Gravtastic Blog
-## A tale of **awesomazing** adventures
+# My **Open Matter** Blog
+## Create, Publish, Share and Collaborate
