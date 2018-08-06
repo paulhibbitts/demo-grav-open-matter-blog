@@ -24,5 +24,5 @@ feed:
 pagination: true
 ---
 
-# My **Open Matter** Blog
+# My **Open** Blog
 ## Create, Publish, Share and Collaborate
